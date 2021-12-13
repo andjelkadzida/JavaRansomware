@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Virus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Virus_jar</output-path>
+    <root id="archive" name="Virus.jar">
+      <element id="module-output" name="Virus" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-io-2.11.0/commons-io-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mail-1.4.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
